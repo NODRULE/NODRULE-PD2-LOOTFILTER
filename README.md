@@ -1,5 +1,8 @@
 # NODRULE-PD2-LOOTFILTER
 NODRULE Lootfilter for PD2
+
+( DOWNLOAD FILE ----> https://github.com/NODRULE/NODRULE-PD2-LOOTFILTER/archive/main.zip )
+
 1. Find your Project Diablo 2 folder. It should have been installed within your Diablo 2 folder(blizzard original install folder) and the folder will be named "ProjectD2".
 
 (Optional) If you already configured a filter, back it up now by renaming/copying your filter. Your filter name would probably be loot.filter or default.filter.
