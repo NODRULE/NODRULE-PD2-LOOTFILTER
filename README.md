@@ -1,0 +1,2 @@
+# NODRULE-PD2-LOOTFILTER
+NODRULE Lootfilter for PD2
